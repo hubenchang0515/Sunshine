@@ -8,7 +8,8 @@
 * 数据库采用SQLite3。
 * 通过IDE运行时，数据库应放置在IDE设置的工作目录，通常为build目录。
 
-## 数据库格式
+## 数据库
+* 类型 : Sqlite
 * 表名 : words  
 * 列名 : | id | english | chinese |   
 
